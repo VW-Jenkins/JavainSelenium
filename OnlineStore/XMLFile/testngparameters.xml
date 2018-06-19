@@ -1,0 +1,9 @@
+<suite name="Suite">
+	<test name="Test">
+		<parameter name="sUserName" value="TestingLA4v@outlook.com"/>
+		<parameter name="sPassword" value="9Esu%YxUmZuP1lBA"/>
+		<classes>
+			<class name="TestCase_TestNGFrame.TestngParameters"/>
+		</classes>
+	</test>
+</suite>

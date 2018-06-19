@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="APIM-VM-victw" name="TestCase_TestNGFrame.RetryTest001" tests="10" failures="10" timestamp="6 Jun 2018 11:15:12 GMT" time="0.078" errors="0">
+  <testcase name="Test1" time="0.016" classname="TestCase_TestNGFrame.RetryTest001">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;true&amp;gt; but was:&amp;lt;false&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+	at TestCase_TestNGFrame.RetryTest001.Test1(RetryTest001.java:16)
+... Removed 30 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="Test1" time="0.0" classname="TestCase_TestNGFrame.RetryTest001">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;true&amp;gt; but was:&amp;lt;false&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+	at TestCase_TestNGFrame.RetryTest001.Test1(RetryTest001.java:16)
+... Removed 30 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="Test1" time="0.0" classname="TestCase_TestNGFrame.RetryTest001">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;true&amp;gt; but was:&amp;lt;false&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+	at TestCase_TestNGFrame.RetryTest001.Test1(RetryTest001.java:16)
+... Removed 30 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="Test1" time="0.016" classname="TestCase_TestNGFrame.RetryTest001">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;true&amp;gt; but was:&amp;lt;false&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+	at TestCase_TestNGFrame.RetryTest001.Test1(RetryTest001.java:16)
+... Removed 30 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="Test1" time="0.0" classname="TestCase_TestNGFrame.RetryTest001">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;true&amp;gt; but was:&amp;lt;false&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+	at TestCase_TestNGFrame.RetryTest001.Test1(RetryTest001.java:16)
+... Removed 30 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="Test2" time="0.0" classname="TestCase_TestNGFrame.RetryTest001">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;true&amp;gt; but was:&amp;lt;false&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+	at TestCase_TestNGFrame.RetryTest001.Test2(RetryTest001.java:21)
+... Removed 30 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="Test2" time="0.0" classname="TestCase_TestNGFrame.RetryTest001">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;true&amp;gt; but was:&amp;lt;false&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+	at TestCase_TestNGFrame.RetryTest001.Test2(RetryTest001.java:21)
+... Removed 30 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="Test2" time="0.0" classname="TestCase_TestNGFrame.RetryTest001">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;true&amp;gt; but was:&amp;lt;false&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+	at TestCase_TestNGFrame.RetryTest001.Test2(RetryTest001.java:21)
+... Removed 30 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="Test2" time="0.0" classname="TestCase_TestNGFrame.RetryTest001">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;true&amp;gt; but was:&amp;lt;false&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+	at TestCase_TestNGFrame.RetryTest001.Test2(RetryTest001.java:21)
+... Removed 30 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="Test2" time="0.016" classname="TestCase_TestNGFrame.RetryTest001">
+    <failure type="java.lang.AssertionError" message="expected:&amp;lt;true&amp;gt; but was:&amp;lt;false&amp;gt;">
+      <![CDATA[java.lang.AssertionError: expected:<true> but was:<false>
+	at TestCase_TestNGFrame.RetryTest001.Test2(RetryTest001.java:21)
+... Removed 30 stack frames]]>
+    </failure>
+  </testcase>
+</testsuite>

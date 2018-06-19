@@ -1,0 +1,23 @@
+<suite name="Suite">>
+<test name="Practive Grouping">
+<groups>
+
+	<define name="All">
+	<include name="Car"/>
+	<include name="Scooter"/>
+	</define>
+<!-- 
+<run>
+<include name="Car"/>
+</run>
+ -->
+	<run>
+		<include name="All"/>
+	</run>
+
+</groups>
+<classes>
+<class name="TestCase_TestNGFrame.Grouping"/>
+</classes>
+</test>
+</suite>

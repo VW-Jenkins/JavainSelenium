@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <parameter name="sUserName" value="TestingLA4v@outlook.com"/>
+  <parameter name="sPassword" value="9Esu%YxUmZuP1lBA"/>
+  <test name="Test(failed)" preserve-order="false">
+    <parameter name="sUserName" value="TestingLA4v@outlook.com"/>
+    <parameter name="sPassword" value="9Esu%YxUmZuP1lBA"/>
+    <classes>
+      <class name="TestCase_TestNGFrame.TestngParameters">
+        <methods>
+          <include name="test" invocation-numbers="0"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

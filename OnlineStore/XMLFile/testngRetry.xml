@@ -1,0 +1,10 @@
+<suite name="RetryFailedTest">
+	<listeners>
+		<listener class-name="TestCase_TestNGFrame.AnnotationTransformer"/>
+	</listeners>
+	<test name="RetryMulitple">
+		<classes>
+			<class name="TestCase_TestNGFrame.RetryTest001"/>
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [RetryFailedTest]">
+  <listeners>
+    <listener class-name="TestCase_TestNGFrame.AnnotationTransformer"/>
+  </listeners>
+  <test name="RetryMulitple(failed)" preserve-order="false">
+    <classes>
+      <class name="TestCase_TestNGFrame.RetryTest001">
+        <methods>
+          <include name="Test2"/>
+          <include name="Test1"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

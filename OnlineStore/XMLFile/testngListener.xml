@@ -1,0 +1,10 @@
+<suite name="suite-Listeners" parallel="none">
+	<listeners>
+		<listener class-name="TestCase_TestNGFrame.Listener"></listener>
+	</listeners>
+	<test name="Batch-Listeners">
+		<classes>
+			<class name="TestCase_TestNGFrame.TestListener"></class>
+		</classes>
+	</test>
+</suite> 

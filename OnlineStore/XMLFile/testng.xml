@@ -1,0 +1,7 @@
+<suite name="Test - Suite">
+<test name="First TC for TestNG">
+	<classes>
+		<class name = "TestCase_TestNGFrame.TestNG"/>
+	</classes>
+</test>
+</suite>

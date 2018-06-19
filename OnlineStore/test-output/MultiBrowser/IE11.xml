@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="APIM-VM-victw" name="TestCase_TestNGFrame.MultiBrowser" tests="1" failures="0" timestamp="6 Jun 2018 01:05:56 GMT" time="14.941" errors="0">
+  <testcase name="f" time="4.07" classname="TestCase_TestNGFrame.MultiBrowser"/>
+</testsuite>
